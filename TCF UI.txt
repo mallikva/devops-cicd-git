@@ -4,5 +4,8 @@ $ git commit -m "Rationale" // Commit to local repo
 $ git push -u origin main // Commit to GitHub
 $ git log //log the changes
 $ git revert -m 1 id from log //revert to previous versions
-$git diff previous id1 previous id 2 //difference between 2 versions
-@git status //current status of git
+$ git diff previous id1 previous id 2 //difference between 2 versions
+$ git status //current status of git
+
+$ git remote add origin https://github.com/mallikva/devops-cicd-git2.git //adding the origin I mean git repo
+
