@@ -1,11 +1,8 @@
-
-<<<<<<< HEAD
-
-//2nd Day Code
-
-//Removed 1st day code
-
-//4th day code
-
-
-///5th day
+$ git init //Initialise Repository
+$ git add . // Add file to staging so that git can track
+$ git commit -m "Rationale" // Commit to local repo
+$ git push -u origin main // Commit to GitHub
+$ git log //log the changes
+$ git revert -m 1 id from log //revert to previous versions
+$git diff previous id1 previous id 2 //difference between 2 versions
+@git status //current status of git
