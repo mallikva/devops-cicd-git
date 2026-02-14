@@ -13,5 +13,5 @@ $ git pull //to fetch the updates from GitHub repo (origin) to your local repo
 
 $ q //to quit and start again
 
-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 //GitHub token
+
 
