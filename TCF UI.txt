@@ -9,3 +9,5 @@ $ git status //current status of git
 
 $ git remote add origin https://github.com/mallikva/devops-cicd-git2.git //adding the origin I mean git repo
 
+$ git pull //to fetch the updates from GitHub repo (origin) to your local repo
+
