@@ -13,5 +13,23 @@ $ git pull //to fetch the updates from GitHub repo (origin) to your local repo
 
 $ q //to quit and start again
 
+$ cd "directory name"//change the directory
+$ cd .. // move one folder up
+$ ls //list the items
+$ ls -l //long listing format
+$ ls -a //list hidden file
+$ ls -ltr // long listing sort by modification time reverse order
 
+
+
+ls - List directory contents
+cd - Change the current directory
+pwd - Print the current working directory
+echo - Display a line of text
+cat - Concatenate and display files
+cp - Copy files and directories
+mv - Move or rename files
+rm - Delete files or folders
+touch - Create an empty file or update its time
+mkdir - Create a new folder
 
